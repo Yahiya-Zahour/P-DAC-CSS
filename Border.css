@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(45deg,red,blue);
+}
+.solid{
+border: 2px solid black;
+}
+.dotted{
+border: 2px dotted rgb(15, 51, 207);
+}
+.Dashed{
+    border: 2px dashed rgb(156, 95, 95);
+    }
+    .Double{
+        border: 2px double rgb(43, 43, 43);
+        }
+        
